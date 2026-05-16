@@ -1,2 +1,2 @@
-# day-II-c-
+# day-II-c++
 aritmatika pada c++ 
